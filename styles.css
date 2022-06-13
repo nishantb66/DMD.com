@@ -5,6 +5,7 @@ body {
 }
 
 .btn-outline-success {
+    text-shadow: 2px 3px#e6bab4;
     color: #fff;
     background-color: #f08e80;
     border-color: #fff;
@@ -15,6 +16,7 @@ body {
 }
 
 .navbar-brand {
+    text-shadow: 2px 3px white;
     font-size: 2.2rem;
     font-family: 'Montserrat', sans-serif;
 }
@@ -35,6 +37,7 @@ body {
     padding-top: 9%;
     padding-right: 8%;
     padding-left: 7%;
+    text-shadow: 2px 3px #e6bab4;
 }
 
 .title-link{
@@ -85,6 +88,7 @@ h3{
 }
 
 .our-service-title{
+    text-shadow: 1px 2px #d09b93;
     padding-bottom: 4.5%;
 }
 
@@ -101,6 +105,8 @@ h5{
 }
 
 .more-button{
+    font-size: large;
+    text-shadow: 2px 3px#e6bab4;
     height: 60px;
     border-radius: 0;
 }
@@ -115,11 +121,13 @@ h5{
 }
 
 .img-testimonial{
+    /* box-shadow: 10px 12px 15px #fceae6; */
     width: 90%;
     padding-left: 40%;
 }
 /**/
 .testimonial-text{
+    box-shadow: 10px 12px 12px #e6b6af;
     text-align: center;
     padding: 8% 25%;
     background-color: #fceae6;
